@@ -1,10 +1,9 @@
-# Simulation of a dataset using Python numpy.random
+# Simulation of a dataset using Python
 ## Elizabeth Daly
 
 ### HDip Data Analytics 2019 Programming for Data Analysis Project
 
-Git-hub repository at:
-https://github.com/elizabethdaly/simulating-data.git
+- Git-hub repository at: https://github.com/elizabethdaly/simulating-data.git
 
 - Jupyter notebook: **eyesight.ipynb**
 
@@ -37,14 +36,30 @@ https://github.com/elizabethdaly/simulating-data.git
 
 ## 2. Introduction <a name="section2"></a>
 
-The question I want to address with this project is: What is the distribution of short-sightedness (myopia) in a random sample of the population?
-What is myopia? A pic.
-How is it quantified? Diopters
-Why this question? Personal (daughter) and professional (past work). Give bit more detail.
-Aim: to produce an image like: find histogram of frequency vs refractive error.
+The question I want to address with this project is: What is the distribution of short-sightedness (myopia) in a random sample of the population? 
+
+### What is myopia?
+- Myopia is also referred to as short-sightedness or near-sightedness. I will stick to using the term myopia as it saves a bit of typing. Myopia is an eye condition which causes distant objects to appear blurry while only very close objects appear clearly. It happens because light entering the eye comes to a focus in front of (rather than on) the back of the eye - the retina. It is a refractive error of the eye: as light travels through the eye it is bent (refracted) and absorbed by the different structures it passes through, primarily the cornea and the lens. If the end result is that the light from an object comes to a focus away from the retina, then that person has a refractive error. In myopia light from distant objects comes to a focus in front of the retina.
+
+![myopia](images/myopia.jpg)
+
+There are other common refractive errors apart from myopia. These include hyperopia (light comes to a focus behind the retina) and astigmatism (light along the horizontal and vertical axes comes to a focus at different points). A person with no refractive error at all is emmetropic or, an emmetrope. These different situations are illustrated below.
+
+![refErrors](images/Refractive-states-web.jpg)
+
+### How is it quantified/corrected?
+Diopters
+
+pic
+
+### Why this question?
+Personal (daughter) and professional (past work). Give bit more detail.
+
+### Aim: 
+to produce an image like: find histogram of frequency vs refractive error.
 Risk factors for myopia. Possible variables.
 
-## 3. blah 3 <a name="section3"></a>
+## 3. Factors that contribute to myopia <a name="section3"></a>
 ## 4. blah 4 <a name="section4"></a>
 ## 5. blah 5 <a name="section5"></a>
 ## 6. blah 6 <a name="section6"></a>
@@ -71,3 +86,14 @@ https://github.com/
 Wes McKinney. ISBN-13: 978-1491957660 ISBN-10: 1491957662
 - [9] Random sampling (numpy.random)
 https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
+
+**Myopia**
+
+- [] WIKIPEDIA: Near-sightedness
+https://en.wikipedia.org/wiki/Near-sightedness
+
+- [] American Academy of Ophthalmology: Global Prevalence of Myopia and High Myopia and Temporal Trends from 2000 through 2050
+https://www.aaojournal.org/article/S0161-6420(16)00025-7/abstract
+
+- [] All about vision: What is myopia?
+https://www.allaboutvision.com/conditions/myopia-faq/what-is-myopia.htm
