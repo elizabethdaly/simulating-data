@@ -39,11 +39,11 @@
 The question I want to address with this project is: What is the distribution of short-sightedness (myopia) in a random sample of the population? 
 
 ### What is myopia?
-- Myopia is also referred to as short-sightedness or near-sightedness. I will stick to using the term myopia as it saves a bit of typing. Myopia is an eye condition which causes distant objects to appear blurry while only very close objects appear clearly. It happens because light entering the eye comes to a focus in front of (rather than on) the back of the eye - the retina. It is a refractive error of the eye: as light travels through the eye it is bent (refracted) and absorbed by the different structures it passes through, primarily the cornea and the lens. If the end result is that the light from an object comes to a focus away from the retina, then that person has a refractive error. In myopia light from distant objects comes to a focus in front of the retina.
+Myopia is also referred to as short-sightedness or near-sightedness. I will stick to using the term myopia as it saves a bit of typing. It is an eye condition which causes distant objects to appear blurry while only very close objects appear clearly. It happens because light entering the eye comes to a focus in front of (rather than on) the back of the eye - the retina. This means that the clearest image of the object is formed in front of the retina rather than on it, where our brain records images. It is a refractive error of the eye: as light travels through the eye it is bent (refracted) and absorbed by the different structures it passes through, primarily the cornea and the lens. The cornea is the front surface of the eye and the lens is a transparent element behind the iris that helps to bring light to a focus. If the end result is that the light from an object comes to a focus away from the retina, then that person has a refractive error. In myopia light from distant objects comes to a focus in front of the retina.
 
-![myopia](images/myopia.jpg)
+![myopia](images/myopia-and-normal.jpg)
 
-There are other common refractive errors apart from myopia. These include hyperopia (light comes to a focus behind the retina) and astigmatism (light along the horizontal and vertical axes comes to a focus at different points). A person with no refractive error at all is emmetropic or, an emmetrope. These different situations are illustrated below.
+There are other common refractive errors apart from myopia. These include hyperopia (light comes to a focus behind the retina) and astigmatism (light along the horizontal and vertical axes comes to a focus at different points). A person with normal vision is emmetropic or, an emmetrope. These different situations are illustrated below.
 
 ![refErrors](images/Refractive-states-web.jpg)
 
