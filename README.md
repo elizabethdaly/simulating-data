@@ -10,9 +10,9 @@
 ![NumPy](images/numpy_logo.png)
 
 # Table of contents
-1. [Information](#info)
+1. [Introduction](#intro)
 
-2. [Introduction](#section2)
+2. [Myopia](#section2)
 
 3. [blah 3 ](#section3)
 
@@ -26,13 +26,13 @@
 
 8. [References](#references)
 
-## 1. Information <a name="information"></a>
+## 1. Information <a name="intro"></a>
 - This README describes work done for the Programming for Data Analysis module project, due 13 December 2019. 
 - Resources used include Python and associated packages Jupyter, matplotlib, and NumPy. 
 - The analysis takes the form of a single Jupyter notebook of filename given above. To view this file, download it from this repository and start Jupyter notebook from the folder containing the file. Jupyter notebook comes as part of the Anaconda distribution of Python (as do the other packages listed above). 
 - Alternatively, view a static version of the notebook (by providing its GitHub url) using Jupyter Nbviewer.
 - All images intended for inclusion in this README are located in the **images** subdirectory of this repository.
-- I have tried to structure the Jupyter notebook and this README so that they have corresponding sections. I will endeavour to have this README complement the analyses performed in the notebook.
+- I would like for this README to complement the analyses performed in the notebook rather than just repeat what's done there.
 
 ## 2. Introduction <a name="section2"></a>
 
@@ -53,13 +53,25 @@ There are other common refractive errors apart from myopia. These include hypero
     <img src=images/Refractive-states-web.jpg width="400" height="300">
  </p>
 
-### How is it quantified/corrected?
-Diopters
+Myopia, hyperopia, and astigmatism are easily corrected by optometrists who prescribe glasses or contact lenses of the correct power. In recent decades laser eye surgery has also become very popular as a way to permanently correct these refractive errors for suitable candidates. It does so by re-shaping the surface of the cornea, changing its shape, and therefore changing how light is refracted as it travels through the front of the eye. On the surface it seems like an attractive option, but it is permanent and not without its own risks.
 
-pic
+### How is it quantified/corrected?
+All refractive errors are measured in units called Dioptres (D), which is the reciprocal of focal length f measured in metres: D = 1/f(m). For example, 1 D = 1/(f=1m), 2 D = 1/(f=0.5m), 3 D = 1/(f=0.33m) and so on. So a 5 D lens would focus light at 1/5 = 0.2 m. The amount of myopia is quantified by the power of the lens required to correct it (move the best focus back towards the retina). Negative values are needed to correct myopia so a sort-sighted person might have a prescription of -2 D perhaps. Conversely, a person with hyperopia (far-sighted) will have a positive prescription. For a person with normal vision, the combined power of the lens and cornea is 60 D (meaning the human eye focal length is approximately 17 mm). The severity of myopia is quantified as follow:
+
+| Degree    | Amount (D)    |
+| :---------|:-------------:|
+| Low       | 0 to -3       |
+| Moderate  | -3 to -6      |
+| High      | more than -6  |
+
+The image below shows how a negative (concave) lens is used to correct myopia.
+
+<p align="center"> 
+    <img src=images/myopia-verses-myopia-corrected.png>
+ </p>
 
 ### Why this question?
-Personal (daughter) and professional (past work). Give bit more detail.
+I'm interested in this question on a personal level because my teenage daughter has myopia. She started wearing glasses when she was nine years old, and every year her prescription went up a little, as expected. However, when she was 14 years old her eyesight deteriorated and her prescription almost doubled in just 10 months. By that stage she had the same prescription as her dad. Myopia progresses as you (and your eyeballs) grow, so if she continued on this track her optometrist speculated that she could end up at 5 or 6 dioptres by the time she had finished growing. She is now wearing myopia correcting contact lenses for six days out of every seven, in an attempt to slow her myopia progression. These lenses have a central pupil which provides correction in the same way as ordinary contact lenses do. However, they also have an annulus along the outside edge of the lens, where the correction is lower. Somehow, (I haven't been able to find the detail of how they work), this discourages growth of the eyeball and therefore slows myopia progression. They appear to be working - fingers crossed.
 
 ### Aim: 
 to produce an image like: find histogram of frequency vs refractive error.
@@ -103,3 +115,6 @@ https://www.aaojournal.org/article/S0161-6420(16)00025-7/abstract
 
 - [] All about vision: What is myopia?
 https://www.allaboutvision.com/conditions/myopia-faq/what-is-myopia.htm
+
+- [] VISION EXCELLENCE: Myopia (short-sightedness)
+https://www.visionexcellence.com.au/common-eye-conditions/myopia-short-sightedness/
