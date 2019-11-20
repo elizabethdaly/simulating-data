@@ -34,12 +34,12 @@
 - All images intended for inclusion in this README are located in the **images** subdirectory of this repository.
 - I would like for this README to complement the analyses performed in the notebook rather than just repeat what's done there.
 
-## 2. Introduction <a name="section2"></a>
+## 2. Myopia <a name="section2"></a>
 
 The question I want to address with this project is: What are the factors that affect the distribution of short-sightedness (myopia) in a random sample of the population?
 
 ### What is myopia?
-Myopia is also referred to as short-sightedness or near-sightedness. I will stick to using the term myopia as it saves a bit of typing. It is an eye condition which causes distant objects to appear blurry while only very close objects are sharp. It happens because light entering the eye comes to a focus in front of (rather than on) the back of the eye - the retina. This means that the clearest image of the object is formed in front of the retina rather than on it, where our brain records images. It is a refractive error of the eye: as light travels through the eye it is bent (refracted) and absorbed by the different structures it passes through, primarily the cornea and the lens. The cornea is the front surface of the eye and the lens is a transparent element behind the iris that helps to bring light to a focus. If the end result is that the light from an object comes to a focus away from the retina, then that person has a refractive error. In myopia light from distant objects comes to a focus in front of the retina.
+Myopia is also referred to as short-sightedness or near-sightedness. I will stick to using the term myopia as it saves a bit of typing. It happens mainly because the eyeball grows too long so that distant objects appear blurry while only very close objects are sharp. It happens because light entering the eye comes to a focus in front of (rather than on) the back of the eye - the retina. This means that the clearest image of the object is formed in front of the retina rather than on it, where our brain records images. It is a refractive error of the eye: as light travels through the eye it is bent (refracted) and absorbed by the different structures it passes through, primarily the cornea and the lens. The cornea is the front surface of the eye and the lens is a transparent element behind the iris that helps to bring light to a focus. If the end result is that the light from an object comes to a focus away from the retina, then that person has a refractive error. In myopia light from distant objects comes to a focus in front of the retina.
 
 <!--![myopia](images/myopia-and-normal.jpg)-->
 <p align="center"> 
@@ -71,7 +71,7 @@ The image below shows how a negative (concave) lens is used to correct myopia.
  </p>
 
 ### Why this question?
-I'm interested in this question on a personal level because my teenage daughter has myopia. She started wearing glasses when she was nine years old, and every year her prescription went up a little, as expected. However, when she was 14 years old her eyesight deteriorated and her prescription almost doubled in just 10 months. By that stage she had the same prescription as her dad. Myopia progresses as you (and your eyeballs) grow, so if she continued on this track her optometrist speculated that she could end up at 5 or 6 dioptres by the time she had finished growing. She is now wearing myopia correcting contact lenses for six days out of every seven, in an attempt to slow her myopia progression. These lenses have a central pupil which provides correction in the same way as ordinary contact lenses do. However, they also have an annulus along the outside edge of the lens, where the correction is lower. Somehow, (I haven't been able to find the detail of how they work), this discourages growth of the eyeball and therefore slows myopia progression. They appear to be working - fingers crossed.
+I'm interested in this question on a personal level because my teenage daughter has myopia. She started wearing glasses when she was nine years old, and every year her prescription went up a little, as expected. However, when she was 14 years old her eyesight deteriorated and her prescription almost doubled in just 10 months. By that stage she had the same prescription as her dad. Myopia progresses as you (and your eyeballs) grow, so if she continued on this track her optometrist speculated that she could end up at 5 or 6 dioptres by the time she had finished growing. She is now wearing myopia correcting contact lenses for six days out of every seven, in an attempt to slow her myopia progression. These lenses have a central pupil which provides correction in the same way as ordinary contact lenses do. However, they also have a peripheral ring on the outside edge of the lens, where the correction is lower so that light from this part of the lens comes to a focus in front of the retina. Somehow, (I haven't been able to find the exact detail of how they work), this discourages growth of the eyeball and therefore slows myopia progression. They appear to be working - fingers crossed.
 
 ### Aim: 
 to produce an image like: find histogram of frequency vs refractive error.
@@ -118,3 +118,6 @@ https://www.allaboutvision.com/conditions/myopia-faq/what-is-myopia.htm
 
 - [] VISION EXCELLENCE: Myopia (short-sightedness)
 https://www.visionexcellence.com.au/common-eye-conditions/myopia-short-sightedness/
+
+- [] Cooper Vision: MiSight 1 day lenses
+https://coopervision.co.uk/contact-lenses/misight-1-day
