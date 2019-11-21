@@ -36,7 +36,7 @@
 
 ## 2. Myopia <a name="section2"></a>
 
-The question I want to address with this project is: What are the factors that affect the distribution of short-sightedness (myopia) in a random sample of the population?
+Edit: The question I want to address with this project is: What are the factors that affect the distribution of short-sightedness (myopia) in a random sample of the population?
 
 ### What is myopia?
 Myopia is also referred to as short-sightedness or near-sightedness. I will stick to using the term myopia as it saves a bit of typing. It happens mainly because the eyeball grows too long so that distant objects appear blurry while only very close objects are sharp. It happens because light entering the eye comes to a focus in front of (rather than on) the back of the eye - the retina. This means that the clearest image of the object is formed in front of the retina rather than on it, where our brain records images. It is a refractive error of the eye: as light travels through the eye it is bent (refracted) and absorbed by the different structures it passes through, primarily the cornea and the lens. The cornea is the front surface of the eye and the lens is a transparent element behind the iris that helps to bring light to a focus. If the end result is that the light from an object comes to a focus away from the retina, then that person has a refractive error. In myopia light from distant objects comes to a focus in front of the retina.
@@ -56,7 +56,7 @@ There are other common refractive errors apart from myopia. These include hypero
 Myopia, hyperopia, and astigmatism are easily corrected by optometrists who prescribe glasses or contact lenses of the correct power. In recent decades laser eye surgery has also become very popular as a way to permanently correct these refractive errors for suitable candidates. It does so by re-shaping the surface of the cornea, changing its shape, and therefore changing how light is refracted as it travels through the front of the eye. On the surface it seems like an attractive option, but it is permanent and not without its own risks.
 
 ### How is it quantified/corrected?
-All refractive errors are measured in units called Dioptres (D), which is the reciprocal of focal length f measured in metres: D = 1/f(m). For example, 1 D = 1/(f=1m), 2 D = 1/(f=0.5m), 3 D = 1/(f=0.33m) and so on. So a 5 D lens would focus light at 1/5 = 0.2 m. The amount of myopia is quantified by the power of the lens required to correct it (move the best focus back towards the retina). Negative values are needed to correct myopia so a sort-sighted person might have a prescription of -2 D perhaps. Conversely, a person with hyperopia (far-sighted) will have a positive prescription. For a person with normal vision, the combined power of the lens and cornea is 60 D (meaning the human eye focal length is approximately 17 mm). The severity of myopia is quantified as follow:
+All refractive errors are measured in units called Dioptres (D), which is the reciprocal of focal length f measured in metres: D = 1/f(m). For example, 1 D = 1/(f=1m), 2 D = 1/(f=0.5m), 3 D = 1/(f=0.33m) and so on. So a 5 D lens would focus light at 1/5 = 0.2 m. The amount of myopia is quantified by the power of the lens required to correct it (move the best focus back onto the retina). Negative values are needed to correct myopia so a sort-sighted person might have a prescription of -2 D perhaps. Conversely, a person with hyperopia (far-sighted) will have a positive prescription. For a person with normal vision, the combined power of the lens and cornea is 60 D (meaning the human eye focal length is approximately 17 mm). The severity of myopia is quantified as follow:
 
 | Degree    | Amount (D)    |
 | :---------|:-------------:|
@@ -64,7 +64,7 @@ All refractive errors are measured in units called Dioptres (D), which is the re
 | Moderate  | -3 to -6      |
 | High      | more than -6  |
 
-The image below shows how a negative (concave) lens is used to correct myopia.
+Lenses used for myopia correction usually come in 0.25 D steps - the closest one to a patients prescription is used. The image below shows how a negative (concave) lens is used to correct myopia.
 
 <p align="center"> 
     <img src=images/myopia-verses-myopia-corrected.png>
@@ -77,8 +77,16 @@ I'm interested in this question on a personal level because my teenage daughter 
 to produce an image like: find histogram of frequency vs refractive error.
 Risk factors for myopia. Possible variables.
 
-## 3. Factors that contribute to myopia <a name="section3"></a>
-## 4. blah 4 <a name="section4"></a>
+## 3. Causes of myopia <a name="section3"></a>
+
+## 4. Variables <a name="section4"></a>
+    - Refractive error D
+    - Genes
+    - Close work
+    - Social class
+    - Environmental
+    - Age
+
 ## 5. blah 5 <a name="section5"></a>
 ## 6. blah 6 <a name="section6"></a>
 ## 7. Conclusions <a name="conclusions"></a>
