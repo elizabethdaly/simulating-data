@@ -73,6 +73,13 @@ Lenses used for myopia correction usually come in 0.25 D steps - the closest one
 ### Why this question?
 I'm interested in this question on a personal level because my teenage daughter has myopia. She started wearing glasses when she was nine years old, and every year her prescription went up a little, as expected. However, when she was 14 years old her eyesight deteriorated and her prescription almost doubled in just 10 months. By that stage she had the same prescription as her dad. Myopia progresses as you (and your eyeballs) grow, so if she continued on this track her optometrist speculated that she could end up at 5 or 6 dioptres by the time she had finished growing. She is now wearing myopia correcting contact lenses for six days out of every seven, in an attempt to slow her myopia progression. These lenses have a central pupil which provides correction in the same way as ordinary contact lenses do. However, they also have a peripheral ring on the outside edge of the lens, where the correction is lower so that light from this part of the lens comes to a focus in front of the retina. Somehow, (I haven't been able to find the exact detail of how they work), this discourages growth of the eyeball and therefore slows myopia progression. They appear to be working - fingers crossed.
 
+I'm also interested in this subject on a professional level because for many years I worked as a physicist building instruments to take very high-resolution images of the human eye. Light travelling from the retina out of the eye to form an image in a camera is affected in the same way as light coming into the eye. So errors like focus and astigmatism above, along with ones that have higher spatial frequencies, can degrade the quality of retinal images. Focus and astigmatism are easily corrected with lenses and mirrors in optical system. I measured higher order refractive errors in the eye and attempted to correct them using active optics. These are errors which cannot be compensated for using lenses, as they have complicated spatial patterns when measured over the pupil of the eye. The aim of that research was not to improve vision, rather to improve the quality of images of the retina.
+
+There appears to be a very strong genetic component to myopia. Among my five siblings, only one started wearing glasses as a child, but my husband and all three of his siblings did. It is also apparently typical that a child who has myopia will end up with more of it than their parent/s. So it progresses with each generation. Nowadays, one in four people have some degree of myopia and it appears to be becoming more prevalent. It is estimated that, if current trends continue, half of the world's population could have myopia by 2050. I'm interested in the reasons for this.
+
+### What are the risks associated with myopia?
+It is inconvenient to wear glasses or contact lenses every day, especially for someone who does a lot of sports. I can't imagine not being able to see clearly when swimming for example, something my husband and daughter complain about on every holiday. Apart from this, there are also more serious consequences of having high myopia. In later life it is associated with an increased risk of retinal detachment, glaucoma, cataracts and other types of damage in the central retinal area. This higher risk comes from having a longer eyeball where the tissues are thinner and stretched; this thin tissue is more susceptible to tears, inflammation, weak blood vessels, and scarring. These pose serious threats to eyesight.
+
 ### Aim: 
 to produce an image like: find histogram of frequency vs refractive error.
 Risk factors for myopia. Possible variables.
@@ -129,3 +136,6 @@ https://www.visionexcellence.com.au/common-eye-conditions/myopia-short-sightedne
 
 - [] Cooper Vision: MiSight 1 day lenses
 https://coopervision.co.uk/contact-lenses/misight-1-day
+
+- [] [] All about vision: Why myopia progression is a concern.
+https://www.allaboutvision.com/parents/myopia-progression.htm
