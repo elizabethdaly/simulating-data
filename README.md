@@ -159,8 +159,17 @@ https://www.hse.ie/eng/health/az/m/myopia/treating-short-sightedness.html
 - [] IMI – Defining and Classifying Myopia: A Proposed Set of Standards for Clinical and Epidemiologic Studies
 https://iovs.arvojournals.org/article.aspx?articleid=2727312
 
+**Refraction**
+
 - [] Characteristics of Refractive Errors in a Population of Adults in the Central Region of Poland
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5800189/
 
 - [] stackoverflow: How to specify upper and lower limits when using numpy.random.normal
 https://stackoverflow.com/questions/18441779/how-to-specify-upper-and-lower-limits-when-using-numpy-random-normal
+
+**Age**
+- [] WIKIPEDIA: Population pyramid
+https://en.wikipedia.org/wiki/Population_pyramid
+
+- [] StackExchange: If my histogram shows a bell-shaped curve, can I say my data is normally distributed?
+https://stats.stackexchange.com/questions/129417/if-my-histogram-shows-a-bell-shaped-curve-can-i-say-my-data-is-normally-distrib
