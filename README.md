@@ -16,9 +16,9 @@
 
 3. [Factors associated with myopia](#section3)
 
-4. [blah 4](section4)
+4. [Variables](section4)
     
-5. [blah 5](#section5)
+5. [Generating the data set](#section5)
     
 6. [blah 6](#section6)
     
@@ -29,7 +29,7 @@
 ## 1. Information <a name="intro"></a>
 - This README describes work done for the Programming for Data Analysis module project, due 13 December 2019. 
 - Resources used include Python and associated packages Jupyter, matplotlib, and NumPy. These come as part of the Anaconda distribution of Python.
-- The analysis takes the form of a single Jupyter notebook of filename given above. To view this file, download it from this repository and start Jupyter notebook from the folder containing the file. Type **Jupyter notebook** on the command line.
+- The analysis takes the form of a single Jupyter notebook of filename given above. To view this file, download it from this repository and start Jupyter notebook from the folder containing the file: type **Jupyter notebook** on the command line.
 - Alternatively, view a static version of the notebook (by providing its GitHub url) using Jupyter Nbviewer.
 - All images intended for inclusion in this README are located in the **images** subdirectory of this repository.
 - I would like for this README to complement the analyses performed in the notebook rather than just repeat what's done there.
@@ -45,7 +45,7 @@ Myopia is also referred to as short-sightedness or near-sightedness. I will stic
     <img src=images/myopia-and-normal.jpg>
  </p>
 
-There are other common refractive errors apart from myopia. These include hyperopia (light comes to a focus behind the retina) and astigmatism (light along the horizontal and vertical axes comes to a focus at different points). A person with normal vision is emmetropic or, an emmetrope. The different refractive errors are illustrated below.
+There are other common refractive errors apart from myopia. These include hyperopia (light comes to a focus behind the retina) and astigmatism (light in different planes comes to a focus at different points). A person with normal vision is emmetropic or, an emmetrope. The different refractive errors are illustrated below.
 
 <!--![refErrors](images/Refractive-states-web.jpg)-->
 <p align="center"> 
@@ -63,7 +63,7 @@ All refractive errors are measured in units called Dioptres (D), which is the re
 | Moderate  | -3 to -6      |
 | High      | more than -6  |
 
-The current threshold value for myopia is a refractive error of less than or equal to -0.50 D. So someone with a -0.25 D error is not technically short-sighted. Lenses used for myopia correction usually come in 0.25 D steps - the closest one to a patients prescription is used. The image below shows how a negative (concave) lens is used to correct myopia.
+The current threshold value for myopia is a refractive error of less than or equal to -0.50 D. So someone with a -0.25 D error is not technically short-sighted. Lenses used for myopia correction usually come in 0.25 D steps - the closest one to a patient's prescription is used. The image below shows how a negative (concave) lens is used to correct myopia.
 
 <p align="center"> 
     <img src=images/myopia-verses-myopia-corrected.png>
@@ -74,7 +74,7 @@ I'm interested in this question on a personal level because my teenage daughter 
 
 I'm also interested in this subject on a professional level because for many years I worked as a physicist building instruments to take very high-resolution images of the human eye. Light travelling from the retina out of the eye to form an image in a camera is affected by refractive errors in the same way as light coming into the eye. So errors like focus and astigmatism above, along with ones that have higher spatial frequencies, can degrade the quality of retinal images. I  measured higher order refractive errors in the eye and attempted to correct them using active optics. These are errors which cannot be compensated for using lenses, as they have complicated spatial patterns when measured over the pupil of the eye. The aim of that research was not to improve vision, rather to improve the quality of images of the retina.
 
-There appears to be a very strong genetic component to myopia. Among my five siblings, only one started wearing glasses as a child, but my husband and all three of his siblings did. It is also apparently typical that a child who has myopia will end up with more of it than their parent/s. So it progresses with each generation. Nowadays, one in four people have some degree of myopia and it appears to be becoming more prevalent. It is estimated that, if current trends continue, half of the world's population could have myopia by 2050. I'm interested in the reasons for this.
+There appears to be a very strong genetic component to myopia. Among my five siblings, only one started wearing glasses as a child, but my husband and all three of his siblings did. Typically, a child who has myopia will end up with more of it than their parent/s. So it progresses with each generation. Nowadays, one in four people have some degree of myopia and it appears to be becoming more prevalent. It is estimated that, if current trends continue, half of the world's population could have myopia by 2050. I'm interested in the reasons for this.
 
 ### What are the risks associated with myopia?
 It is inconvenient to wear glasses or contact lenses every day, especially for someone who does a lot of sports; I can't imagine not being able to see clearly when swimming, for example. Apart from this, there are also more serious consequences of having high myopia. In later life it is associated with an increased risk of retinal detachment, glaucoma, cataracts and other types of damage in the central retinal area. This higher risk comes from having a longer eyeball where the tissues are thinner and stretched; this thin tissue is more susceptible to tears, inflammation, weak blood vessels, and scarring. These pose serious threats to eyesight.
@@ -107,7 +107,7 @@ As I imagine what the final data set might look like I'm thinking: what would a 
 - Hours outside to decrease as close work increases?
 
 
-## 5. blah 5 <a name="section5"></a>
+## 5. Generating the data set <a name="section5"></a>
 ## 6. blah 6 <a name="section6"></a>
 ## 7. Conclusions <a name="conclusions"></a>
 ## 8. References <a name="references"></a>
@@ -173,3 +173,5 @@ https://en.wikipedia.org/wiki/Population_pyramid
 
 - [] StackExchange: If my histogram shows a bell-shaped curve, can I say my data is normally distributed?
 https://stats.stackexchange.com/questions/129417/if-my-histogram-shows-a-bell-shaped-curve-can-i-say-my-data-is-normally-distrib
+
+- [] 
