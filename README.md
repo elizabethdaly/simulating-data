@@ -100,6 +100,18 @@ Possibilities include
     - Social class (cat: )
     - Education (cat: primary, secondary, third)
 
+### 4.1 Genes
+
+### 4.2 Refractive error
+
+### 4.3 Age
+
+<p align="center"> 
+    <img src=images/census2016_popPyramid.JPG>
+ </p>
+
+### 4.4 Environmental factors
+
 As I imagine what the final data set might look like I'm thinking: what would a Seaborn pairplot look like? I might expect
 - RE to be related to age (starts in childhood, progresses with growth, decreased in older people)
 - RE to be related to genes. Maybe data from the three genes variables would be clustered in groups?
@@ -159,6 +171,20 @@ https://www.hse.ie/eng/health/az/m/myopia/treating-short-sightedness.html
 - [] IMI – Defining and Classifying Myopia: A Proposed Set of Standards for Clinical and Epidemiologic Studies
 https://iovs.arvojournals.org/article.aspx?articleid=2727312
 
+**Genes**
+
+- [] Insight into the molecular genetics of myopia (a bit technical)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5757860/
+
+- [] Stanford at The Tech: Understanding Genetics 
+https://genetics.thetech.org/ask/ask73
+
+- [] Science Daily: New genetic risk factors for myopia discovered
+https://www.sciencedaily.com/releases/2016/04/160421133905.htm
+
+ - [] All About Vision: Is being nearsighted genetic?
+ https://www.allaboutvision.com/conditions/myopia-faq/is-being-nearsighted-genetic.htm
+
 **Refraction**
 
 - [] Characteristics of Refractive Errors in a Population of Adults in the Central Region of Poland
@@ -168,10 +194,25 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5800189/
 https://stackoverflow.com/questions/18441779/how-to-specify-upper-and-lower-limits-when-using-numpy-random-normal
 
 **Age**
+
 - [] WIKIPEDIA: Population pyramid
 https://en.wikipedia.org/wiki/Population_pyramid
 
 - [] StackExchange: If my histogram shows a bell-shaped curve, can I say my data is normally distributed?
 https://stats.stackexchange.com/questions/129417/if-my-histogram-shows-a-bell-shaped-curve-can-i-say-my-data-is-normally-distrib
 
-- [] 
+- []  Central Statistics Office:  E3001: Enumerated Population 1926 to 2016 by Age Group, Sex and CensusYear
+https://statbank.cso.ie/px/pxeirestat/Statire/SelectVarVal/Define.asp?maintable=E3001&PLanguage=0
+
+**Environment**
+
+- [] Scientists Determine the Exact Amount of Time We Should Be Spending Outside
+https://www.inverse.com/article/56685-nature-outdoors-mental-health-link
+
+- [] Healio Primary Care Optometry News: Time outdoors reduces myopia risk in subset of children
+https://www.healio.com/optometry/pediatrics/news/online/%7B7aa57b69-30ea-44fb-9f44-5159e62a6f79%7D/time-outdoors-reduces-myopia-risk-in-subset-of-children
+
+- [] Time spent in outdoor activities in relation to myopia prevention and control: a meta‐analysis and systematic review
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5599950/
+"Saw et al. [9] showed that compared to children of nonmyopic parents, children of myopic parents have a higher degree of myopia (average, 0.39 D for those with one myopic parent and 0.74 D for those with two myopic parents)"
+
