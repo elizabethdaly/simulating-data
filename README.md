@@ -115,7 +115,7 @@ Possibilities include
 As I imagine what the final data set might look like I'm thinking: what would a Seaborn pairplot look like? I might expect
 - RE to be related to age (starts in childhood, progresses with growth, decreased in older people)
 - RE to be related to genes. Maybe data from the three genes variables would be clustered in groups?
-- Hours outside to be related to age - maybe decreases as get older?
+- Hours outside to be related to age - maybe decreases as get older? See Child in the City below.
 - Hours outside to decrease as close work increases?
 
 
@@ -215,4 +215,23 @@ https://www.healio.com/optometry/pediatrics/news/online/%7B7aa57b69-30ea-44fb-9f
 - [] Time spent in outdoor activities in relation to myopia prevention and control: a meta‐analysis and systematic review
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5599950/
 "Saw et al. [9] showed that compared to children of nonmyopic parents, children of myopic parents have a higher degree of myopia (average, 0.39 D for those with one myopic parent and 0.74 D for those with two myopic parents)"
+
+- [] The association between time spent outdoors and myopia in children and adolescents: a systematic review and meta-analysis.
+https://www.ncbi.nlm.nih.gov/pubmed/22809757
+
+- [] The National Human Activity Pattern Survey (NHAPS)
+https://www.nature.com/articles/7500165.pdf?origin=ppub
+
+- [] US Bureau of Labor Statistics: Average hours per day spent in selected activities by age
+https://www.bls.gov/charts/american-time-use/activity-by-age.htm
+
+- [] Flowing Data: How People Like You Spend Their Time (interactive tool based on above reference)
+https://flowingdata.com/2016/12/06/how-people-like-you-spend-their-time/
+
+- [] Independent: CHILDREN SPEND TWICE AS LONG LOOKING AT SCREENS THAN PLAYING OUTSIDE, STUDY FINDS
+https://www.independent.co.uk/life-style/children-screens-play-outside-computer-phone-time-healthy-games-a8603411.html
+
+- [] Child in the City: Children spend half the time playing outside in comparison to their parents
+https://www.childinthecity.org/2018/01/15/children-spend-half-the-time-playing-outside-in-comparison-to-their-parents/?gdpr=accept
+
 
