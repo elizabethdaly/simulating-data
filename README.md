@@ -80,27 +80,26 @@ There appears to be a very strong genetic component to myopia. Among my five sib
 It is inconvenient to wear glasses or contact lenses every day, especially for someone who does a lot of sports; I can't imagine not being able to see clearly when swimming, for example. Apart from this, there are also more serious consequences of having high myopia. In later life it is associated with an increased risk of retinal detachment, glaucoma, cataracts and other types of damage in the central retinal area. This higher risk comes from having a longer eyeball where the tissues are thinner and stretched; this thin tissue is more susceptible to tears, inflammation, weak blood vessels, and scarring. These pose serious threats to eyesight.
 
 ## 3. Factors associated with myopia <a name="section3"></a>
-Some of the factors which contribute to myopia include:
-- genes
-- amount of close work done such as reading, screens, mechanical work
-- environmental factors such as the amount of time spent outdoors
-- age
-- education
-- social class
--
+Some of the factors which contribute to, or are associated with, myopia include:
+- Genes; one is much more likely to by myopic if one or both parents are. this might be a categorical variable with values 0, 1, 2 reflecting no, some, or strong genetic predisposition. 
+- The amount of close work done such as reading, screens, mechanical work can influence the progression of myopia. This would be a continuous numerical variable.
+- There is some evidence to suggest that increasing the amount of time spent outdoors may have a protective effect against myopia. Another continuous numerical variable.
+- It's unusual for young children to develop myopia. It's usually picked up towards the end of primary school. So, there must be some association with age - a positive integer.
+- Education may play a role. Those with more education have spent more time doing close work, so it could be associated with level of education. The level might be a categorical variable of value primary, secondary, third.
+- Socio-economic status may also be a factor. In a sweeping generalization, I would say that those of higher social class are more likely to progress to higher levels of education, therefore spending more time doing close work (less time outside), possibly increasing the progression of myopia, *if* the genetic predisposition is already there. Social class would be a categorical variable reflecting the, apparently, seven levels: elite, established middle class, technical middle class, new affluent workers, traditional working class, emergent service workers, and precariat. 
+- Gender is a possible option, not because one gender is more or less likely to be myopic, just because it is a common thing to record when taking a random sample of people. A M, F categorical variable.
+- The measure of myopia, refractive error, is the most important variable associated with myopia. This is a numerical variable, negative in value, and containing two decimal places.
+
+For this project I am going to examine four variables, and in the next section I investigate each of them in detail. The variables I have chosen are: 
+1. Genes
+2. Refractive error (or prescription)
+3. Age
+4. The environmental factor of hours spent outside over some fixed period.
 
 ## 4. Variables <a name="section4"></a>
-Possibilities include
-    - Refractive error (numerical non negative real number 2 decimal places)
-    - Genes (cat: none, some, strong)
-    - Age (numerical non-zero integer)
-    - Environmental (numerical hrs/wk integer)
-    - Close work (numerical hrs/wk integer)
-    - Gender (cat: M F)
-    - Social class (cat: )
-    - Education (cat: primary, secondary, third)
 
 ### 4.1 Genes
+blah
 
 ### 4.2 Refractive error
 
@@ -172,6 +171,14 @@ https://www.hse.ie/eng/health/az/m/myopia/treating-short-sightedness.html
 
 - [] IMI – Defining and Classifying Myopia: A Proposed Set of Standards for Clinical and Epidemiologic Studies
 https://iovs.arvojournals.org/article.aspx?articleid=2727312
+
+**Misc**
+
+- [] Measuring Socioeconomic Status and Subjective Social Status
+https://www.apa.org/pi/ses/resources/class/measuring-status
+
+- [] BBC: What is your 21st Century social class?
+https://www.bbc.com/news/magazine-34766169
 
 **Genes**
 
