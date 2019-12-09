@@ -1,4 +1,4 @@
-# Simulation of a dataset using Python
+# Simulation of a dataset using Python: Eyesight
 ## Elizabeth Daly
 
 ### HDip Data Analytics 2019 Programming for Data Analysis Project
