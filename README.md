@@ -1,28 +1,51 @@
 # Simulation of a dataset relating to eyesight
 # 52465 Programming for Data Analysis
 
-### Elizabeth Daly HDip Data Analytics 2019
-***
+## Project description
 
-This README describes work done for the Programming for Data Analysis module project, due 16 December 2019. Brief project description goes here.
+This README describes work done for the Programming for Data Analysis module project, due 16 December 2019. Very brief project description goes here.
+
+## Getting started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+- [Anaconda distribution of Python](https://www.anaconda.com/distribution/)
+- [Python Software Foundation](https://www.python.org/)
+- [Project Jupyter](https://jupyter.org/)
+- [matplotlib: Python plotting library](https://matplotlib.org/)
+- [NumPy](https://numpy.org/)
+- [SciPy](https://www.scipy.org/)
+- [Pandas](https://pandas.pydata.org/)
+
+### Installing
+Download and install the Anaconda distribution of Python from the link above. The other packages (Jupyter notebook, Pandas, matplotlib, NumPy, and SciPy) come as part of the Anaconda distribution of Python.
+
+### Project repository
+- [GitHub](https://github.com/)
+Git-hub repository at: https://github.com/elizabethdaly/simulating-data.git
+Jupyter notebook: **eyesight.ipynb**
+
+### Instructions for cloning the repository
+
+
+### Static version of the notebook
+Use
+-  [nbviewer: Sharing Jupyter notebooks](https://nbviewer.jupyter.org/)
+
+## Author
+Elizabeth Daly for HDip in Data Analytics 2019/2020.
+
+## Licence
+
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details.
 
 
 
 
 
-
-
-
-## 2. Instructions <a name="section2"></a>
-
-- Resources used include Python and associated packages Jupyter, matplotlib, and NumPy. These come as part of the Anaconda distribution of Python.
 - The analysis takes the form of a single Jupyter notebook of filename given above. To view this file, download it from this repository and start Jupyter notebook from the folder containing the file: type **Jupyter notebook** on the command line.
 - Alternatively, view a static version of the notebook (by providing its GitHub url) using Jupyter Nbviewer.
 - All images intended for inclusion in this README are located in the **images** subdirectory of this repository.
-- I would like for this README to complement the analyses performed in the notebook rather than just repeat what's done there.
-
-- Git-hub repository at: https://github.com/elizabethdaly/simulating-data.git
-
-- Jupyter notebook: **eyesight.ipynb**
 
 ![NumPy](images/numpy_logo.png)
