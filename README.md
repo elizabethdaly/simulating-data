@@ -1,11 +1,12 @@
 # Simulation of a dataset relating to eyesight
 # 52465 Programming for Data Analysis
 
-![Python](images/python.jpg)![NumPy](images/numpy_logo.png)
+<!-- ![Python](images/python.jpg)![NumPy](images/numpy_logo.png) -->
 
 <p align="middle">
-  <img src="images/python.jpg" width="200" />
-  <img src="images/numpy_logo.png" width="200" /> 
+  <img src="images/python.jpg" width="100" />
+  <img src="images/numpy_logo.png" width="100" />
+  <img src="images/jupyter_logo.png" width="100" /> 
 </p>
 
 ## Project description
