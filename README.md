@@ -5,8 +5,9 @@
 
 <p align="middle">
   <img src="images/python.jpg" width="100" />
-  <img src="images/numpy_logo.png" width="100" />
+  <img src="images/pandas_logo.png" width="100" />
   <img src="images/jupyter_logo.png" width="100" /> 
+  <img src="images/numpy_logo.png" width="100" />
 </p>
 
 ## Project description
