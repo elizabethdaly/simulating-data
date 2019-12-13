@@ -3,6 +3,11 @@
 
 ![Python](images/python.jpg)![NumPy](images/numpy_logo.png)
 
+<p align="middle">
+  <img src="images/python.jpg" width="200" />
+  <img src="images/numpy_logo.png" width="200" /> 
+</p>
+
 ## Project description
 
 This README describes work done for the Programming for Data Analysis module project, due 16 December 2019.
