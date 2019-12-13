@@ -1,7 +1,7 @@
 # Simulation of a dataset relating to eyesight
 # 52465 Programming for Data Analysis
 
-![NumPy](images/numpy_logo.png)
+![Python](images/python.jpg)![NumPy](images/numpy_logo.png)
 
 ## Project description
 
@@ -50,7 +50,7 @@ Alternatively, one can view a static version of the notebook using [Jupyter Nbvi
 https://github.com/elizabethdaly/simulating-data/blob/master/eyesight.ipynb
 ```
 
-## Additional file
+## Additional files
 - All images intended for inclusion in this README or the Jupyter notebook are located in the **images** subdirectory of this repository.
 - Additional data files to be read into the notebook are located in the **data** subdirectory of this repository.
 
